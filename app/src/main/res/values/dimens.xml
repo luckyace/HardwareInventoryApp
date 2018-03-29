@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="z_fab">6dp</dimen>
+    <dimen name="fab_indent">24dp</dimen>
+    <dimen name="touch_raise">6dp</dimen>
+</resources>
